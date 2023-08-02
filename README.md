@@ -1,4 +1,4 @@
-# Data-visualisation
+# Data visualization
 
 ### About
 
